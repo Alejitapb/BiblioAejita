@@ -1,4 +1,4 @@
-package service;
+package edu.sena.alejademo.service;
 
 import edu.sena.alejademo.model.DVD;
 import edu.sena.alejademo.repository.DVDRepository;

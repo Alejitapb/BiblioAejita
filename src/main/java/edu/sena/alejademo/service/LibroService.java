@@ -1,4 +1,4 @@
-package service;
+package edu.sena.alejademo.service;
 
 import edu.sena.alejademo.model.Libro;
 import edu.sena.alejademo.repository.LibroRepository;

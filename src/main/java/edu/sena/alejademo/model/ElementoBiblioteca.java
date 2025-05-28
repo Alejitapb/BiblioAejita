@@ -1,4 +1,4 @@
-package model;
+package edu.sena.alejademo.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;

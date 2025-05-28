@@ -1,4 +1,4 @@
-package repository;
+package edu.sena.alejademo.repository;
 
 import edu.sena.alejademo.model.DVD;
 import org.springframework.data.jpa.repository.JpaRepository;

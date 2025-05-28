@@ -1,4 +1,4 @@
-package repository;
+package edu.sena.alejademo.repository;
 
 import edu.sena.alejademo.model.Revista;
 import org.springframework.data.jpa.repository.JpaRepository;
