@@ -7,9 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-public class DVDService {
-
-    @Service
+@Service
     public class DVDService {
 
         @Autowired
@@ -40,4 +38,3 @@ public class DVDService {
             return dvdRepository.findByDirectorContaining(director);
         }
     }
-}
